@@ -38,3 +38,4 @@ Data/Prop_Setups
 Scripts/venv
 OpenFOAM
 ignore
+uv.lock
